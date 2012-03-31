@@ -8,3 +8,5 @@ pkg/
 .bundle/
 Gemfile.lock
 .idea
+.rbenv-version
+.rvmrc

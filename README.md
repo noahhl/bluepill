@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/noahhl/bluepill.png)](http://travis-ci.org/noahhl/bluepill)
+
 # Bluepill
 Bluepill is a simple process monitoring tool written in Ruby. 
 
